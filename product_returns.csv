@@ -1,0 +1,501 @@
+Product_Code,Product_Category,Return_Reason,Condition_Score,Usage_Days,Product_Value,Decision
+CLOT606,Clothing,Damaged,3,19,2099,Recycle
+CLOT843,Clothing,Expired,9,26,4184,Recycle
+CLOT598,Clothing,Damaged,8,25,4764,Donate
+CLOT988,Clothing,Size Issue,7,35,548,Resell
+ELEC947,Electronics,Damaged,9,29,20674,Donate
+ELEC940,Electronics,Size Issue,6,28,14787,Donate
+ELEC814,Electronics,Defective,4,58,41234,Recycle
+ELEC641,Electronics,Expired,9,53,16551,Recycle
+ELEC275,Electronics,Expired,5,27,8059,Recycle
+GROC330,Groceries,Expired,2,22,303,Recycle
+GROC675,Groceries,Defective,5,53,320,Recycle
+ELEC325,Electronics,Damaged,7,26,5436,Donate
+CLOT828,Clothing,Expired,8,47,3565,Recycle
+CLOT124,Clothing,Size Issue,10,31,3464,Resell
+ELEC937,Electronics,Defective,7,39,31917,Recycle
+GROC190,Groceries,Damaged,1,38,484,Recycle
+GROC585,Groceries,Damaged,3,25,381,Recycle
+GROC915,Groceries,Size Issue,8,4,60,Resell
+CLOT229,Clothing,Defective,3,38,3461,Recycle
+GROC120,Groceries,Size Issue,3,28,114,Recycle
+CLOT693,Clothing,Defective,6,42,3026,Recycle
+GROC102,Groceries,Defective,8,36,434,Recycle
+CLOT940,Clothing,Expired,9,12,1862,Recycle
+ELEC997,Electronics,Damaged,5,23,13538,Donate
+GROC412,Groceries,Expired,3,13,204,Recycle
+CLOT419,Clothing,Size Issue,5,3,4131,Donate
+GROC682,Groceries,Size Issue,2,36,157,Recycle
+ELEC533,Electronics,Expired,5,7,48059,Recycle
+ELEC265,Electronics,Expired,2,4,26202,Recycle
+GROC827,Groceries,Damaged,7,1,103,Donate
+CLOT206,Clothing,Expired,8,10,2275,Recycle
+CLOT172,Clothing,Expired,1,9,776,Recycle
+GROC751,Groceries,Damaged,7,18,292,Donate
+GROC238,Groceries,Size Issue,1,17,122,Recycle
+GROC469,Groceries,Defective,8,44,347,Recycle
+GROC583,Groceries,Defective,9,9,479,Recycle
+CLOT308,Clothing,Defective,6,24,2293,Recycle
+ELEC540,Electronics,Defective,3,5,39454,Recycle
+CLOT667,Clothing,Damaged,10,31,1972,Donate
+CLOT886,Clothing,Size Issue,7,23,4930,Resell
+ELEC692,Electronics,Size Issue,1,28,8401,Recycle
+ELEC116,Electronics,Size Issue,4,21,25235,Recycle
+GROC250,Groceries,Expired,2,26,368,Recycle
+CLOT855,Clothing,Damaged,5,60,4459,Donate
+ELEC594,Electronics,Damaged,3,55,49308,Recycle
+ELEC814,Electronics,Defective,3,51,42869,Recycle
+GROC371,Groceries,Size Issue,5,35,407,Donate
+ELEC440,Electronics,Damaged,6,60,9836,Donate
+GROC997,Groceries,Defective,3,50,335,Recycle
+GROC762,Groceries,Defective,2,4,173,Recycle
+CLOT231,Clothing,Size Issue,3,27,502,Recycle
+GROC506,Groceries,Damaged,2,43,250,Recycle
+CLOT774,Clothing,Damaged,10,4,4647,Donate
+CLOT322,Clothing,Damaged,10,17,2334,Donate
+GROC714,Groceries,Damaged,9,10,360,Donate
+CLOT674,Clothing,Defective,8,52,856,Recycle
+CLOT926,Clothing,Damaged,6,28,3910,Donate
+GROC239,Groceries,Size Issue,3,23,352,Recycle
+CLOT492,Clothing,Size Issue,10,26,836,Resell
+ELEC122,Electronics,Damaged,6,41,37047,Donate
+ELEC571,Electronics,Expired,9,7,31619,Recycle
+GROC812,Groceries,Damaged,8,20,107,Donate
+CLOT885,Clothing,Defective,1,48,963,Recycle
+ELEC131,Electronics,Expired,1,11,11904,Recycle
+CLOT492,Clothing,Size Issue,3,59,4863,Recycle
+ELEC375,Electronics,Size Issue,8,5,5299,Resell
+ELEC334,Electronics,Damaged,7,24,29849,Donate
+CLOT144,Clothing,Size Issue,4,16,1493,Recycle
+GROC171,Groceries,Expired,1,59,246,Recycle
+GROC499,Groceries,Expired,7,13,155,Recycle
+ELEC675,Electronics,Expired,5,9,21712,Recycle
+GROC226,Groceries,Damaged,7,31,492,Donate
+GROC380,Groceries,Damaged,3,24,491,Recycle
+CLOT323,Clothing,Defective,6,57,1329,Recycle
+CLOT945,Clothing,Damaged,1,25,1013,Recycle
+ELEC968,Electronics,Expired,1,48,39021,Recycle
+CLOT483,Clothing,Damaged,1,38,3708,Recycle
+CLOT256,Clothing,Damaged,5,56,4574,Donate
+ELEC321,Electronics,Size Issue,2,26,24955,Recycle
+GROC372,Groceries,Defective,2,16,440,Recycle
+GROC498,Groceries,Expired,2,44,180,Recycle
+CLOT652,Clothing,Defective,8,26,3157,Recycle
+GROC204,Groceries,Size Issue,2,50,454,Recycle
+GROC937,Groceries,Defective,3,59,232,Recycle
+CLOT251,Clothing,Defective,3,4,2258,Recycle
+CLOT220,Clothing,Damaged,4,3,3501,Recycle
+CLOT768,Clothing,Expired,5,6,612,Recycle
+CLOT175,Clothing,Size Issue,2,53,592,Recycle
+GROC813,Groceries,Size Issue,8,52,468,Resell
+CLOT626,Clothing,Expired,2,43,531,Recycle
+ELEC880,Electronics,Defective,4,38,48724,Recycle
+ELEC115,Electronics,Defective,3,45,32727,Recycle
+ELEC363,Electronics,Damaged,10,22,44797,Donate
+GROC587,Groceries,Damaged,10,41,473,Donate
+CLOT567,Clothing,Size Issue,1,19,3237,Recycle
+GROC133,Groceries,Damaged,5,17,91,Donate
+CLOT497,Clothing,Damaged,5,33,3826,Donate
+CLOT930,Clothing,Expired,3,48,4134,Recycle
+ELEC720,Electronics,Damaged,10,6,46781,Donate
+GROC210,Groceries,Expired,7,11,456,Recycle
+CLOT862,Clothing,Size Issue,9,37,4699,Resell
+CLOT238,Clothing,Defective,9,2,4225,Recycle
+ELEC438,Electronics,Defective,3,53,27427,Recycle
+CLOT886,Clothing,Expired,1,42,3070,Recycle
+CLOT304,Clothing,Expired,6,54,1017,Recycle
+GROC385,Groceries,Damaged,5,2,62,Donate
+GROC605,Groceries,Expired,10,1,142,Recycle
+CLOT710,Clothing,Size Issue,1,27,3878,Recycle
+CLOT717,Clothing,Expired,7,51,638,Recycle
+GROC481,Groceries,Damaged,6,55,489,Donate
+GROC746,Groceries,Defective,8,41,68,Recycle
+CLOT884,Clothing,Expired,6,46,2943,Recycle
+CLOT831,Clothing,Expired,4,55,3500,Recycle
+ELEC902,Electronics,Defective,4,9,45559,Recycle
+GROC415,Groceries,Expired,6,30,239,Recycle
+CLOT452,Clothing,Defective,6,4,2862,Recycle
+CLOT802,Clothing,Size Issue,9,19,1342,Resell
+ELEC696,Electronics,Defective,2,13,15633,Recycle
+GROC225,Groceries,Expired,6,13,54,Recycle
+ELEC583,Electronics,Damaged,8,58,15282,Donate
+GROC803,Groceries,Defective,1,53,300,Recycle
+ELEC984,Electronics,Expired,2,31,33827,Recycle
+GROC132,Groceries,Defective,4,21,99,Recycle
+CLOT738,Clothing,Size Issue,2,29,2345,Recycle
+ELEC667,Electronics,Defective,6,35,20758,Recycle
+GROC239,Groceries,Size Issue,4,47,163,Recycle
+GROC404,Groceries,Size Issue,4,24,119,Recycle
+GROC108,Groceries,Defective,8,26,381,Recycle
+GROC601,Groceries,Defective,5,19,113,Recycle
+CLOT933,Clothing,Defective,5,19,531,Recycle
+CLOT746,Clothing,Defective,3,14,2601,Recycle
+ELEC377,Electronics,Expired,9,35,6840,Recycle
+ELEC829,Electronics,Defective,4,8,34065,Recycle
+ELEC600,Electronics,Size Issue,8,38,6858,Resell
+GROC407,Groceries,Size Issue,6,26,319,Donate
+GROC811,Groceries,Defective,9,43,64,Recycle
+GROC200,Groceries,Defective,10,29,406,Recycle
+ELEC423,Electronics,Size Issue,8,49,30038,Resell
+CLOT525,Clothing,Damaged,7,18,4767,Donate
+GROC397,Groceries,Defective,10,34,54,Recycle
+GROC944,Groceries,Size Issue,10,45,338,Resell
+GROC518,Groceries,Size Issue,8,12,176,Resell
+GROC733,Groceries,Size Issue,3,23,417,Recycle
+ELEC189,Electronics,Damaged,3,1,37528,Recycle
+GROC138,Groceries,Size Issue,9,55,189,Resell
+ELEC428,Electronics,Size Issue,7,13,14855,Resell
+CLOT931,Clothing,Size Issue,8,7,3880,Resell
+CLOT362,Clothing,Damaged,10,36,4280,Donate
+CLOT138,Clothing,Damaged,5,37,1281,Donate
+CLOT875,Clothing,Size Issue,5,20,2778,Donate
+GROC819,Groceries,Expired,5,4,257,Recycle
+CLOT417,Clothing,Expired,3,41,2990,Recycle
+ELEC285,Electronics,Defective,9,46,25281,Recycle
+CLOT588,Clothing,Expired,9,37,3977,Recycle
+ELEC201,Electronics,Expired,6,26,31286,Recycle
+CLOT595,Clothing,Damaged,6,8,2872,Donate
+GROC457,Groceries,Expired,5,8,81,Recycle
+GROC549,Groceries,Expired,7,26,311,Recycle
+CLOT680,Clothing,Damaged,9,40,3435,Donate
+ELEC216,Electronics,Expired,3,55,14626,Recycle
+ELEC560,Electronics,Size Issue,6,3,48066,Donate
+CLOT268,Clothing,Defective,7,13,3412,Recycle
+CLOT665,Clothing,Size Issue,6,11,713,Donate
+GROC741,Groceries,Defective,2,7,124,Recycle
+ELEC910,Electronics,Defective,10,39,10224,Recycle
+ELEC501,Electronics,Damaged,8,3,24191,Donate
+GROC933,Groceries,Expired,6,26,441,Recycle
+ELEC477,Electronics,Defective,5,54,6879,Recycle
+GROC867,Groceries,Damaged,9,1,81,Donate
+CLOT886,Clothing,Size Issue,6,24,843,Donate
+CLOT157,Clothing,Defective,7,54,1211,Recycle
+ELEC977,Electronics,Defective,3,27,7694,Recycle
+ELEC953,Electronics,Size Issue,5,55,25913,Donate
+CLOT503,Clothing,Size Issue,4,46,2967,Recycle
+ELEC321,Electronics,Damaged,5,6,31259,Donate
+GROC149,Groceries,Size Issue,10,13,140,Resell
+ELEC785,Electronics,Defective,2,32,8726,Recycle
+ELEC232,Electronics,Defective,3,41,35530,Recycle
+GROC752,Groceries,Size Issue,10,10,262,Resell
+CLOT113,Clothing,Expired,4,11,3097,Recycle
+ELEC544,Electronics,Defective,10,21,32177,Recycle
+GROC398,Groceries,Expired,7,17,383,Recycle
+GROC887,Groceries,Expired,8,17,337,Recycle
+CLOT941,Clothing,Damaged,7,30,4053,Donate
+ELEC833,Electronics,Size Issue,5,10,34003,Donate
+GROC942,Groceries,Defective,10,44,60,Recycle
+CLOT105,Clothing,Defective,7,6,3383,Recycle
+ELEC927,Electronics,Damaged,10,14,45728,Donate
+CLOT953,Clothing,Damaged,8,15,4268,Donate
+CLOT903,Clothing,Defective,2,23,3454,Recycle
+GROC476,Groceries,Expired,9,31,166,Recycle
+CLOT218,Clothing,Size Issue,3,46,4345,Recycle
+ELEC614,Electronics,Damaged,5,52,9806,Donate
+ELEC423,Electronics,Defective,5,44,43985,Recycle
+GROC481,Groceries,Defective,10,49,94,Recycle
+GROC104,Groceries,Size Issue,6,46,89,Donate
+ELEC105,Electronics,Size Issue,1,15,18563,Recycle
+CLOT334,Clothing,Defective,10,24,2540,Recycle
+CLOT846,Clothing,Defective,8,8,2966,Recycle
+CLOT733,Clothing,Defective,4,43,1879,Recycle
+GROC883,Groceries,Defective,8,40,102,Recycle
+CLOT326,Clothing,Damaged,10,13,4225,Donate
+ELEC336,Electronics,Size Issue,4,57,35580,Recycle
+CLOT389,Clothing,Expired,6,33,2151,Recycle
+CLOT836,Clothing,Size Issue,10,3,4794,Resell
+CLOT352,Clothing,Damaged,5,12,2470,Donate
+GROC179,Groceries,Expired,6,23,278,Recycle
+CLOT711,Clothing,Defective,9,8,3307,Recycle
+ELEC288,Electronics,Defective,8,45,42717,Recycle
+CLOT670,Clothing,Defective,10,48,3454,Recycle
+ELEC200,Electronics,Damaged,9,60,9179,Donate
+GROC721,Groceries,Expired,4,35,127,Recycle
+CLOT226,Clothing,Size Issue,5,2,2636,Donate
+CLOT463,Clothing,Defective,4,2,4965,Recycle
+ELEC204,Electronics,Expired,7,22,19002,Recycle
+CLOT177,Clothing,Damaged,6,37,4053,Donate
+GROC910,Groceries,Size Issue,10,43,347,Resell
+ELEC628,Electronics,Size Issue,9,15,8131,Resell
+ELEC818,Electronics,Expired,6,47,41364,Recycle
+GROC664,Groceries,Defective,7,34,156,Recycle
+CLOT409,Clothing,Defective,2,20,804,Recycle
+ELEC408,Electronics,Size Issue,4,35,40682,Recycle
+GROC893,Groceries,Expired,5,43,367,Recycle
+GROC786,Groceries,Size Issue,2,30,386,Recycle
+CLOT467,Clothing,Expired,8,16,4454,Recycle
+CLOT718,Clothing,Defective,9,12,4843,Recycle
+GROC589,Groceries,Size Issue,10,12,242,Resell
+CLOT723,Clothing,Expired,9,8,2851,Recycle
+CLOT421,Clothing,Size Issue,8,31,944,Resell
+GROC200,Groceries,Size Issue,4,20,161,Recycle
+ELEC455,Electronics,Defective,2,38,17467,Recycle
+ELEC212,Electronics,Defective,1,2,20293,Recycle
+ELEC378,Electronics,Expired,8,26,38055,Recycle
+ELEC974,Electronics,Damaged,6,58,32891,Donate
+ELEC647,Electronics,Expired,9,55,11866,Recycle
+GROC285,Groceries,Defective,9,12,286,Recycle
+ELEC927,Electronics,Damaged,2,18,29698,Recycle
+ELEC972,Electronics,Expired,4,13,5056,Recycle
+CLOT463,Clothing,Size Issue,5,11,873,Donate
+ELEC509,Electronics,Size Issue,1,1,37949,Recycle
+CLOT793,Clothing,Expired,8,8,3766,Recycle
+ELEC283,Electronics,Damaged,9,6,22315,Donate
+ELEC709,Electronics,Size Issue,2,15,24126,Recycle
+GROC384,Groceries,Damaged,3,16,182,Recycle
+CLOT597,Clothing,Defective,1,33,2874,Recycle
+CLOT215,Clothing,Size Issue,5,45,4661,Donate
+ELEC737,Electronics,Damaged,10,18,45419,Donate
+CLOT121,Clothing,Damaged,5,1,788,Donate
+ELEC194,Electronics,Defective,8,39,27094,Recycle
+CLOT880,Clothing,Expired,4,1,4930,Recycle
+ELEC765,Electronics,Defective,9,54,19406,Recycle
+CLOT251,Clothing,Size Issue,9,28,1649,Resell
+CLOT681,Clothing,Defective,8,16,2406,Recycle
+GROC297,Groceries,Size Issue,3,25,289,Recycle
+GROC138,Groceries,Defective,1,43,484,Recycle
+ELEC883,Electronics,Expired,6,44,34978,Recycle
+GROC592,Groceries,Size Issue,6,40,486,Donate
+GROC834,Groceries,Size Issue,6,19,375,Donate
+GROC423,Groceries,Damaged,1,17,433,Recycle
+ELEC497,Electronics,Expired,6,8,16069,Recycle
+CLOT957,Clothing,Defective,9,8,666,Recycle
+CLOT375,Clothing,Expired,6,1,2604,Recycle
+GROC634,Groceries,Expired,1,14,395,Recycle
+ELEC415,Electronics,Damaged,5,41,43164,Donate
+ELEC815,Electronics,Defective,9,24,31111,Recycle
+GROC357,Groceries,Expired,1,30,350,Recycle
+ELEC976,Electronics,Damaged,6,19,38010,Donate
+CLOT539,Clothing,Defective,3,21,2847,Recycle
+ELEC803,Electronics,Damaged,8,37,23536,Donate
+ELEC740,Electronics,Defective,3,18,23395,Recycle
+GROC616,Groceries,Damaged,3,28,99,Recycle
+ELEC548,Electronics,Defective,5,5,44611,Recycle
+GROC152,Groceries,Size Issue,7,43,72,Resell
+ELEC331,Electronics,Defective,6,46,34571,Recycle
+CLOT398,Clothing,Defective,5,55,1893,Recycle
+CLOT569,Clothing,Defective,3,39,4125,Recycle
+ELEC697,Electronics,Defective,5,15,32232,Recycle
+ELEC874,Electronics,Size Issue,8,30,16469,Resell
+CLOT765,Clothing,Expired,7,16,566,Recycle
+ELEC286,Electronics,Size Issue,8,4,40308,Resell
+CLOT954,Clothing,Damaged,7,4,4097,Donate
+ELEC728,Electronics,Damaged,6,59,36431,Donate
+CLOT475,Clothing,Expired,2,9,3519,Recycle
+CLOT990,Clothing,Damaged,2,9,500,Recycle
+ELEC281,Electronics,Damaged,1,25,24260,Recycle
+ELEC284,Electronics,Expired,4,43,35856,Recycle
+ELEC801,Electronics,Expired,3,30,38772,Recycle
+ELEC729,Electronics,Size Issue,1,30,12878,Recycle
+ELEC512,Electronics,Expired,6,24,13867,Recycle
+CLOT632,Clothing,Defective,4,56,2377,Recycle
+GROC197,Groceries,Defective,1,10,149,Recycle
+ELEC152,Electronics,Damaged,6,37,15758,Donate
+ELEC932,Electronics,Damaged,1,53,26858,Recycle
+CLOT846,Clothing,Damaged,1,10,3893,Recycle
+GROC111,Groceries,Expired,10,42,98,Recycle
+ELEC719,Electronics,Defective,6,59,13753,Recycle
+CLOT276,Clothing,Defective,7,55,3247,Recycle
+GROC365,Groceries,Size Issue,3,11,374,Recycle
+ELEC429,Electronics,Expired,10,35,23199,Recycle
+CLOT918,Clothing,Damaged,5,35,1479,Donate
+ELEC561,Electronics,Size Issue,3,58,5943,Recycle
+ELEC682,Electronics,Damaged,7,21,29567,Donate
+ELEC392,Electronics,Defective,5,22,20092,Recycle
+ELEC272,Electronics,Size Issue,9,42,46267,Resell
+CLOT298,Clothing,Damaged,6,17,4472,Donate
+ELEC233,Electronics,Damaged,10,17,47798,Donate
+GROC343,Groceries,Expired,2,10,88,Recycle
+ELEC804,Electronics,Size Issue,7,47,38046,Resell
+ELEC746,Electronics,Expired,10,2,42636,Recycle
+CLOT760,Clothing,Size Issue,2,60,1297,Recycle
+ELEC776,Electronics,Defective,7,27,22355,Recycle
+ELEC368,Electronics,Size Issue,6,49,26290,Donate
+CLOT937,Clothing,Expired,1,9,3440,Recycle
+CLOT448,Clothing,Expired,10,44,1025,Recycle
+ELEC631,Electronics,Size Issue,7,29,42690,Resell
+ELEC756,Electronics,Defective,7,52,6794,Recycle
+CLOT118,Clothing,Expired,3,22,3050,Recycle
+GROC975,Groceries,Expired,4,43,116,Recycle
+CLOT680,Clothing,Size Issue,4,34,786,Recycle
+ELEC760,Electronics,Size Issue,10,41,39463,Resell
+CLOT290,Clothing,Expired,6,6,2888,Recycle
+CLOT770,Clothing,Size Issue,7,60,3370,Resell
+CLOT694,Clothing,Damaged,3,14,2823,Recycle
+CLOT953,Clothing,Size Issue,5,22,2855,Donate
+CLOT712,Clothing,Defective,4,9,1894,Recycle
+CLOT245,Clothing,Expired,5,8,3017,Recycle
+GROC374,Groceries,Expired,1,27,261,Recycle
+CLOT407,Clothing,Defective,10,18,2505,Recycle
+ELEC235,Electronics,Damaged,6,45,41163,Donate
+GROC399,Groceries,Defective,4,49,387,Recycle
+CLOT107,Clothing,Expired,7,51,4451,Recycle
+CLOT793,Clothing,Size Issue,8,38,1798,Resell
+CLOT271,Clothing,Defective,3,38,2605,Recycle
+GROC758,Groceries,Size Issue,10,53,499,Resell
+ELEC179,Electronics,Damaged,2,20,38166,Recycle
+CLOT713,Clothing,Damaged,2,56,2835,Recycle
+CLOT208,Clothing,Size Issue,10,52,2566,Resell
+GROC961,Groceries,Defective,4,44,348,Recycle
+GROC178,Groceries,Size Issue,9,12,223,Resell
+ELEC352,Electronics,Defective,10,17,48346,Recycle
+CLOT442,Clothing,Defective,5,12,3981,Recycle
+CLOT706,Clothing,Damaged,1,52,4365,Recycle
+ELEC147,Electronics,Expired,7,35,12580,Recycle
+ELEC415,Electronics,Expired,4,17,25620,Recycle
+GROC483,Groceries,Defective,2,39,166,Recycle
+GROC770,Groceries,Size Issue,9,16,210,Resell
+ELEC689,Electronics,Defective,2,5,23909,Recycle
+CLOT125,Clothing,Size Issue,3,10,4685,Recycle
+GROC372,Groceries,Expired,3,13,410,Recycle
+CLOT693,Clothing,Expired,9,20,1389,Recycle
+ELEC200,Electronics,Defective,1,53,13718,Recycle
+ELEC605,Electronics,Defective,9,1,11848,Recycle
+GROC666,Groceries,Damaged,10,46,298,Donate
+CLOT846,Clothing,Expired,10,33,1133,Recycle
+ELEC617,Electronics,Damaged,10,7,12619,Donate
+GROC848,Groceries,Expired,6,48,306,Recycle
+ELEC754,Electronics,Defective,1,9,21536,Recycle
+CLOT512,Clothing,Expired,2,50,2308,Recycle
+GROC394,Groceries,Damaged,9,8,317,Donate
+ELEC540,Electronics,Damaged,7,11,44787,Donate
+ELEC888,Electronics,Size Issue,5,40,44125,Donate
+CLOT197,Clothing,Expired,10,1,2182,Recycle
+GROC848,Groceries,Damaged,3,7,77,Recycle
+ELEC753,Electronics,Expired,3,3,45898,Recycle
+ELEC887,Electronics,Damaged,9,5,20541,Donate
+ELEC549,Electronics,Expired,1,37,6720,Recycle
+ELEC410,Electronics,Damaged,9,8,40829,Donate
+ELEC395,Electronics,Defective,9,5,46634,Recycle
+GROC248,Groceries,Size Issue,3,5,161,Recycle
+ELEC884,Electronics,Damaged,6,36,39482,Donate
+CLOT623,Clothing,Defective,4,53,1280,Recycle
+GROC502,Groceries,Damaged,10,13,374,Donate
+ELEC746,Electronics,Size Issue,1,26,33634,Recycle
+CLOT707,Clothing,Size Issue,6,49,2125,Donate
+GROC344,Groceries,Damaged,8,52,380,Donate
+CLOT176,Clothing,Defective,10,18,779,Recycle
+GROC746,Groceries,Expired,3,33,359,Recycle
+CLOT751,Clothing,Damaged,2,3,2331,Recycle
+ELEC135,Electronics,Defective,9,43,17186,Recycle
+ELEC293,Electronics,Damaged,4,13,47803,Recycle
+ELEC938,Electronics,Size Issue,5,19,11887,Donate
+ELEC776,Electronics,Damaged,1,49,14493,Recycle
+ELEC436,Electronics,Expired,8,35,21237,Recycle
+CLOT464,Clothing,Damaged,5,9,1056,Donate
+GROC768,Groceries,Defective,1,19,235,Recycle
+GROC300,Groceries,Size Issue,7,51,123,Resell
+ELEC828,Electronics,Size Issue,8,5,16664,Resell
+GROC480,Groceries,Size Issue,3,40,491,Recycle
+ELEC707,Electronics,Size Issue,2,11,41984,Recycle
+CLOT484,Clothing,Defective,9,25,3781,Recycle
+CLOT571,Clothing,Damaged,3,59,595,Recycle
+GROC505,Groceries,Size Issue,7,5,196,Resell
+ELEC816,Electronics,Size Issue,8,9,37333,Resell
+GROC932,Groceries,Expired,1,21,164,Recycle
+CLOT526,Clothing,Damaged,7,41,3304,Donate
+CLOT106,Clothing,Defective,1,24,1593,Recycle
+ELEC569,Electronics,Size Issue,4,12,47938,Recycle
+ELEC209,Electronics,Size Issue,7,17,8055,Resell
+CLOT268,Clothing,Defective,9,5,3230,Recycle
+CLOT283,Clothing,Defective,5,12,4677,Recycle
+GROC990,Groceries,Defective,4,28,387,Recycle
+ELEC268,Electronics,Damaged,7,44,11379,Donate
+CLOT563,Clothing,Damaged,4,55,2020,Recycle
+ELEC210,Electronics,Expired,7,5,14176,Recycle
+GROC158,Groceries,Damaged,10,37,301,Donate
+GROC304,Groceries,Size Issue,4,51,57,Recycle
+ELEC234,Electronics,Size Issue,10,31,29368,Resell
+GROC948,Groceries,Expired,6,50,289,Recycle
+ELEC148,Electronics,Size Issue,9,1,25781,Resell
+CLOT790,Clothing,Size Issue,4,8,3748,Recycle
+ELEC414,Electronics,Expired,4,33,16603,Recycle
+CLOT963,Clothing,Size Issue,1,18,2820,Recycle
+GROC737,Groceries,Defective,1,13,403,Recycle
+GROC742,Groceries,Damaged,5,12,254,Donate
+GROC930,Groceries,Size Issue,9,13,266,Resell
+ELEC674,Electronics,Defective,9,16,47916,Recycle
+GROC911,Groceries,Defective,3,33,187,Recycle
+CLOT467,Clothing,Size Issue,1,60,4570,Recycle
+CLOT670,Clothing,Size Issue,10,7,1697,Resell
+CLOT377,Clothing,Expired,9,17,621,Recycle
+ELEC106,Electronics,Size Issue,4,50,8663,Recycle
+ELEC665,Electronics,Defective,9,19,22849,Recycle
+ELEC893,Electronics,Damaged,8,41,43834,Donate
+GROC731,Groceries,Expired,8,51,474,Recycle
+ELEC541,Electronics,Defective,2,43,30704,Recycle
+GROC826,Groceries,Damaged,2,24,471,Recycle
+ELEC575,Electronics,Defective,3,46,30337,Recycle
+CLOT570,Clothing,Damaged,10,36,4979,Donate
+GROC444,Groceries,Expired,2,35,490,Recycle
+CLOT365,Clothing,Defective,2,28,3638,Recycle
+ELEC467,Electronics,Defective,1,12,28653,Recycle
+CLOT157,Clothing,Damaged,1,13,3767,Recycle
+GROC694,Groceries,Defective,10,54,73,Recycle
+CLOT201,Clothing,Size Issue,7,60,2811,Resell
+GROC549,Groceries,Defective,5,50,454,Recycle
+CLOT458,Clothing,Size Issue,1,52,3831,Recycle
+GROC503,Groceries,Size Issue,7,24,360,Resell
+GROC399,Groceries,Defective,4,12,415,Recycle
+ELEC632,Electronics,Expired,1,27,31069,Recycle
+GROC500,Groceries,Damaged,5,47,353,Donate
+ELEC245,Electronics,Expired,3,51,13664,Recycle
+GROC854,Groceries,Defective,3,25,426,Recycle
+GROC652,Groceries,Damaged,10,58,380,Donate
+CLOT580,Clothing,Expired,1,25,941,Recycle
+CLOT524,Clothing,Damaged,4,40,2307,Recycle
+CLOT972,Clothing,Size Issue,10,17,3614,Resell
+CLOT840,Clothing,Defective,7,58,3833,Recycle
+CLOT245,Clothing,Defective,8,18,1599,Recycle
+GROC671,Groceries,Expired,3,7,459,Recycle
+ELEC573,Electronics,Size Issue,2,54,32220,Recycle
+GROC881,Groceries,Defective,5,22,198,Recycle
+GROC687,Groceries,Defective,4,57,485,Recycle
+CLOT893,Clothing,Damaged,4,30,3173,Recycle
+CLOT468,Clothing,Defective,10,58,3499,Recycle
+GROC691,Groceries,Defective,1,58,68,Recycle
+ELEC202,Electronics,Size Issue,4,38,33038,Recycle
+GROC960,Groceries,Defective,7,43,325,Recycle
+ELEC385,Electronics,Size Issue,5,56,23444,Donate
+GROC479,Groceries,Size Issue,2,25,210,Recycle
+GROC552,Groceries,Defective,9,7,126,Recycle
+GROC552,Groceries,Defective,1,17,204,Recycle
+ELEC132,Electronics,Damaged,4,29,17813,Recycle
+GROC426,Groceries,Defective,10,23,68,Recycle
+ELEC222,Electronics,Defective,10,25,20544,Recycle
+CLOT761,Clothing,Size Issue,4,46,1157,Recycle
+ELEC474,Electronics,Defective,1,51,36145,Recycle
+ELEC596,Electronics,Expired,2,37,36826,Recycle
+ELEC347,Electronics,Size Issue,3,50,34121,Recycle
+GROC907,Groceries,Damaged,4,53,431,Recycle
+CLOT288,Clothing,Damaged,4,47,2782,Recycle
+CLOT776,Clothing,Damaged,3,11,1381,Recycle
+ELEC440,Electronics,Size Issue,5,9,37310,Donate
+CLOT845,Clothing,Damaged,10,3,2163,Donate
+GROC338,Groceries,Expired,3,1,497,Recycle
+ELEC233,Electronics,Defective,7,38,44889,Recycle
+ELEC109,Electronics,Size Issue,2,58,37245,Recycle
+CLOT840,Clothing,Damaged,10,45,1957,Donate
+GROC431,Groceries,Expired,5,55,278,Recycle
+GROC605,Groceries,Expired,4,14,201,Recycle
+CLOT540,Clothing,Damaged,5,15,3982,Donate
+CLOT537,Clothing,Size Issue,4,25,3669,Recycle
+CLOT653,Clothing,Defective,2,42,2282,Recycle
+GROC561,Groceries,Size Issue,9,27,218,Resell
+ELEC748,Electronics,Size Issue,2,17,30034,Recycle
+CLOT552,Clothing,Size Issue,4,52,2636,Recycle
+CLOT616,Clothing,Size Issue,10,36,2085,Resell
+CLOT916,Clothing,Expired,4,28,4630,Recycle
+CLOT847,Clothing,Expired,1,35,2965,Recycle
+CLOT778,Clothing,Size Issue,9,43,664,Resell
+GROC443,Groceries,Defective,5,14,474,Recycle
+CLOT284,Clothing,Size Issue,10,47,2651,Resell
+CLOT897,Clothing,Defective,1,36,3493,Recycle
+GROC521,Groceries,Expired,7,26,361,Recycle
+ELEC647,Electronics,Size Issue,4,25,28849,Recycle
+GROC196,Groceries,Damaged,2,56,380,Recycle
+CLOT321,Clothing,Expired,7,39,3504,Recycle
+CLOT359,Clothing,Size Issue,5,57,2006,Donate
+CLOT576,Clothing,Damaged,7,54,4813,Donate
+GROC466,Groceries,Damaged,10,13,118,Donate
+CLOT929,Clothing,Size Issue,5,8,3894,Donate
